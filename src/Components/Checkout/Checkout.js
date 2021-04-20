@@ -48,7 +48,6 @@ const Checkout = () => {
         <div className="col-md-12 order-md-2 mb-4">
           <h4 className="d-flex justify-content-between align-items-center mb-3">
             <span className="text-muted">Your cart</span>
-            <span className="badge badge-secondary badge-pill">3</span>
           </h4>
           <ul className="list-group mb-3">
             <li className="list-group-item d-flex justify-content-between lh-condensed">
